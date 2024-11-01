@@ -103,3 +103,12 @@ The following packages were added:
   com.unity.ugui@1.0.0
   com.unity.xr.legacyinputhelpers@2.1.10
   com.unity.ai.navigation@1.1.5
+
+=== Thu Oct 31 23:41:07 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 2.4.4 to 2.5.1
+  com.unity.textmeshpro from version 3.0.6 to 3.0.7
