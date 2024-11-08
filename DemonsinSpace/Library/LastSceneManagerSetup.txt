@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/demon in office.unity
+- path: Assets/Scenes/anomaly in space.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
